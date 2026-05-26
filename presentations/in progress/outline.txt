@@ -1,0 +1,6 @@
+presentation outline:
+- getting started
+- data upload & library installation
+- preprocessing
+- exploratory data analysis
+- analysis
