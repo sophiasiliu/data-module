@@ -1,6 +1,6 @@
 presentation outline:
-- getting started
-- data upload & library installation
-- preprocessing
-- exploratory data analysis
-- analysis
+1. getting started
+2. data upload & library installation
+3. preprocessing
+4. exploratory data analysis (EDA)
+5. data analysis & visualization
