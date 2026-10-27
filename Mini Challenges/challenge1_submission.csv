@@ -1,0 +1,19 @@
+patient_id,hospital,diagnosis,sex,age,race,stage,grade,subtype,tumour_size,er_status,pr_status,her2_status,lymph_nodes,recurrence,diagonsis_date,surgery_date,death_date,tumour_size_unit,tumour_size_number,standardized_tumour_size_mm
+BC001,Kingston General,Breast Cancer,Female,54,White,Stage 2,Grade 2,Invasive Ductal,2.4 cm,ER+,PR+,HER2-,2,No,2015-01-08,2015-01-27,,cm,2.4,24.0
+BC002,St Mary's,Breast Cancer,Female,67,Black,Stage 3,Grade 3,Invasive Ductal,38 mm,ER+,PR+,HER2-,5,Yes,2015-01-19,2015-02-10,2019-06-14,mm,38.0,38.0
+BC003,Kingston General,Breast Cancer,Female,48,White,Stage 1,Grade 1,Invasive Ductal,1.2cm,ER+,PR+,HER2-,0,No,2015-11-06,2015-11-25,2019-09-25,cm,1.2,12.0
+BC005,St Mary's,Breast Cancer,Female,61,White,Stage 2,Grade 2,Invasive Lobular,27 mm,ER+,PR+,HER2-,1,No,2015-03-02,2015-03-23,,mm,27.0,27.0
+BC006,Kingston General,Breast Cancer,Female,45,Black,Stage 2,Grade 2,Invasive Ductal,1.9 cm,ER+,PR+,HER2-,1,No,2015-03-18,2015-04-07,,cm,1.9,19.0
+BC007,Kingston General,Breast Cancer,Female,58,White,Stage 1,Grade 1,Invasive Ductal,14 mm,ER+,PR+,HER2-,0,No,2015-04-01,2015-04-21,,mm,14.0,14.0
+BC009,Kingston General,Breast Cancer,Female,52,Black,Stage 2,Grade 2,Invasive Lobular,2.8 cm,ER+,PR-,HER2-,2,Yes,2015-11-23,2015-12-14,,cm,2.8,28.0
+BC011,St Mary's,Breast Cancer,Female,63,Asian,Stage 3,Grade 3,Invasive Ductal,41 mm,ER+,PR+,HER2-,4,Yes,2015-06-08,2015-06-29,2020-03-16,mm,41.0,41.0
+BC012,Kingston General,Breast Cancer,Female,57,White,Stage 2,Grade 2,Invasive Lobular,2.1 cm,ER+,PR+,HER2-,1,No,2015-06-24,2015-07-14,,cm,2.1,21.0
+BC014,St Mary's,Breast Cancer,Female,43,White,Stage 1,Grade 1,Invasive Ductal,0.8 cm,ER+,PR+,HER2-,0,No,2015-07-23,2015-08-13,2022-05-08,cm,0.8,8.0
+BC015,Kingston General,Breast Cancer,Female,59,Asian,Stage 2,Grade 2,Invasive Ductal,23 mm,ER+,PR+,HER2-,1,No,2015-12-04,2015-12-22,,mm,23.0,23.0
+BC016,Kingston General,Breast Cancer,Female,66,White,Stage 3,Grade 3,Invasive Lobular,4.2cm,ER+,PR-,HER2-,5,Yes,2015-08-27,2015-09-18,,cm,4.2,42.0
+BC017,St Mary's,Breast Cancer,Female,51,Black,Stage 2,Grade 2,Invasive Ductal,1.7 cm,ER+,PR+,HER2-,0,No,2015-09-09,2015-09-30,,cm,1.7,17.0
+BC019,Kingston General,Breast Cancer,Female,47,White,Stage 1,Grade 1,Invasive Lobular,1.1 cm,ER+,PR+,HER2-,0,No,2015-10-13,2015-11-03,2017-12-03,cm,1.1,11.0
+BC020,St Mary's,Breast Cancer,Female,,Black,Stage 3,Grade 3,Invasive Ductal,3.5 cm,ER+,PR+,HER2-,3,Yes,2015-10-29,2015-11-20,2023-02-17,cm,3.5,35.0
+BC003,Kingston General,Breast Cancer,Female,48,White,Stage 1,Grade 1,Invasive Ductal,1.2cm,ER+,PR+,HER2-,0,No,2015-11-06,2015-11-25,2019-09-25,cm,1.2,12.0
+BC009,Kingston General,Breast Cancer,Female,52,Black,Stage 2,Grade 2,Invasive Lobular,2.8 cm,ER+,PR-,HER2-,2,Yes,2015-11-23,2015-12-14,,cm,2.8,28.0
+BC015,Kingston General,Breast Cancer,Female,59,Asian,Stage 2,Grade 2,Invasive Ductal,23 mm,ER+,PR+,HER2-,1,No,2015-12-04,2015-12-22,,mm,23.0,23.0

@@ -1,0 +1,24 @@
+patient_id,hospital,diagnosis,sex,age,race,stage,grade,subtype,tumour_size,er_status,pr_status,her2_status,lymph_nodes,recurrence,diagonsis_date,surgery_date,death_date
+BC001,Kingston General,Breast Cancer,Female,54,White,II,2,Invasive Ductal,2.4 cm,Positive,Positive,Negative,2,No,1/8/2015,1/27/2015,
+BC002,St Mary's,breast cancer,female,67,Black,III,Grade 3,invasive ductal carcinoma,38 mm,ER+,PR+,HER2-,5,Yes,1/19/2015,2/10/2015,6/14/2019
+BC003,Queen's Hospital,BREAST CANCER,F,48,White,1,G1,IDC,1.2cm,Positive,Positive,Negative,0,No,11/6/2015,11/25/2015,9/25/2019
+BC004,Kingston General,Breast cancer,Female,73,Asian,Stage IV,3,Invasive Lobular,4.5 cm,Negative,Negative,Positive,7,Yes,2/17/2015,3/6/2015,8/19/2021
+BC005,St. Marys,breast Cancer,Female,61,White,II,2,Lobular,27 mm,ER positive,PR positive,HER2 negative,1,No,3/2/2015,3/23/2015,
+BC006,Queen's Hospital,Breast Cancer,F,45,Black,II,Grade 2,Ductal,1.9 cm,+,+,-,1,No,3/18/2015,4/7/2015,
+BC007,Kingston General,breast cancer,female,58,White,I,1,IDC,14 mm,Positive,Positive,Negative,0,No,4/1/2015,4/21/2015,
+BC008,St Mary's,BREAST cancer,F,69,White,3,G3,Invasive ductal,3.6 cm,ER-,PR-,HER2+,4,Yes,4/16/2015,5/5/2015,
+BC009,Queen's Hospital,breast cancer,Female,52,Black,II,2,ILC,2.8 cm,Positive,Negative,Negative,2,Yes,11/23/2015,12/14/2015,
+BC010,Kingston General,Breast Cancer,female,76,White,IV,Grade 3,Ductal,5.2 cm,Negative,Negative,Positive,8,Yes,5/21/2015,6/11/2015,11/27/2018
+BC011,St Mary's,breast cancer,Female,63,Asian,III,3,Invasive Ductal,41 mm,ER+,PR+,HER2-,4,Yes,6/8/2015,6/29/2015,3/16/2020
+BC012,Queen's Hospital,Breast Cancer,F,57,White,II,G2,Invasive Lobular,2.1 cm,Positive,Positive,Negative,1,No,6/24/2015,7/14/2015,
+BC013,Kingston General,breast cancer,Female,70,Black,Stage III,Grade 3,IDC,3.9 cm,Positive,Negative,Positive,6,Yes,7/7/2015,7/29/2015,
+BC014,St Mary's,Breast Cancer,female,43,White,I,G1,Ductal,0.8 cm,Positive,Positive,Negative,0,No,7/23/2015,8/13/2015,5/8/2022
+BC015,Queen's Hospital,breast cancer,F,59,Asian,2,2,Invasive ductal carcinoma,23 mm,ER positive,PR positive,HER2 negative,1,No,12/4/2015,12/22/2015,
+BC016,Kingston General,Breast Cancer,Female,66,White,III,3,ILC,4.2cm,ER+,PR-,HER2-,5,Yes,8/27/2015,9/18/2015,
+BC017,St Mary's,breast cancer,F,51,Black,II,Grade 2,IDC,1.7 cm,Positive,Positive,Negative,0,No,9/9/2015,9/30/2015,
+BC018,Queen's Hospital,BREAST CANCER,Female,78,White,IV,3,Invasive Ductal,5.8 cm,Negative,Negative,Positive,9,Yes,9/25/2015,10/16/2015,
+BC019,Kingston General,breast cancer,female,47,White,I,Grade 1,Invasive Lobular,1.1 cm,Positive,Positive,Negative,0,No,10/13/2015,11/3/2015,12/3/2017
+BC020,St Mary's,Breast Cancer,F,missing,Black,III,G3,IDC,3.5 cm,ER+,PR+,HER2-,3,Yes,10/29/2015,11/20/2015,2/17/2023
+BC003,Queen's Hospital,BREAST CANCER,F,48,White,1,G1,IDC,1.2cm,Positive,Positive,Negative,0,No,11/6/2015,11/25/2015,9/25/2019
+BC009,Queen's Hospital,breast cancer,Female,52,Black,II,2,ILC,2.8 cm,Positive,Negative,Negative,2,Yes,11/23/2015,12/14/2015,
+BC015,Queen's Hospital,breast cancer,F,59,Asian,2,2,Invasive ductal carcinoma,23 mm,ER positive,PR positive,HER2 negative,1,No,12/4/2015,12/22/2015,
